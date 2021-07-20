@@ -1,0 +1,216 @@
+[submodule "omgbot"]
+	path = omgbot
+	url = git@github.com:OrderMyGear/omgbot
+[submodule "staging-cluster"]
+	path = staging-cluster
+	url = git@github.com:OrderMyGear/staging-cluster
+[submodule "prod-cluster"]
+	path = prod-cluster
+	url = git@github.com:OrderMyGear/prod-cluster
+[submodule "storefront-app"]
+	path = storefront-app
+	url = git@github.com:OrderMyGear/storefront-app
+[submodule "teamdealeronline"]
+	path = teamdealeronline
+	url = git@github.com:OrderMyGear/teamdealeronline
+[submodule "omg-infrastructure"]
+	path = omg-infrastructure
+	url = git@github.com:OrderMyGear/omg-infrastructure
+[submodule "jenkins-jobs"]
+	path = jenkins-jobs
+	url = git@github.com:OrderMyGear/jenkins-jobs
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:OrderMyGear/user-service
+[submodule "dev-cluster"]
+	path = dev-cluster
+	url = git@github.com:OrderMyGear/dev-cluster
+[submodule "locust"]
+	path = locust
+	url = git@github.com:OrderMyGear/locust
+[submodule "job-service"]
+	path = job-service
+	url = git@github.com:OrderMyGear/job-service
+[submodule "search-indexer"]
+	path = search-indexer
+	url = git@github.com:OrderMyGear/search-indexer
+[submodule "product-importer"]
+	path = product-importer
+	url = git@github.com:OrderMyGear/product-importer
+[submodule "order-exporter"]
+	path = order-exporter
+	url = git@github.com:OrderMyGear/order-exporter
+[submodule "applepay-verifier"]
+	path = applepay-verifier
+	url = git@github.com:OrderMyGear/applepay-verifier
+[submodule "accounting-ui"]
+	path = accounting-ui
+	url = git@github.com:OrderMyGear/accounting-ui
+[submodule "store-app"]
+	path = store-app
+	url = git@github.com:OrderMyGear/store-app
+[submodule "json-api"]
+	path = json-api
+	url = git@github.com:OrderMyGear/json-api
+[submodule "tdo-go"]
+	path = tdo-go
+	url = git@github.com:OrderMyGear/tdo-go
+[submodule "stripe-reporting"]
+	path = stripe-reporting
+	url = git@github.com:OrderMyGear/stripe-reporting
+[submodule "custom-domains-service"]
+	path = custom-domains-service
+	url = git@github.com:OrderMyGear/custom-domains-service
+[submodule "orders-ui"]
+	path = orders-ui
+	url = git@github.com:OrderMyGear/orders-ui
+[submodule "receipt-generator"]
+	path = receipt-generator
+	url = git@github.com:OrderMyGear/receipt-generator
+[submodule "packing-slips-builder"]
+	path = packing-slips-builder
+	url = git@github.com:OrderMyGear/packing-slips-builder
+[submodule "catalog-builder"]
+	path = catalog-builder
+	url = git@github.com:OrderMyGear/catalog-builder
+[submodule "looker"]
+	path = looker
+	url = git@github.com:OrderMyGear/looker
+[submodule "payment-service"]
+	path = payment-service
+	url = git@github.com:OrderMyGear/payment-service
+[submodule "branding-service"]
+	path = branding-service
+	url = git@github.com:OrderMyGear/branding-service
+[submodule "analytics-app"]
+	path = analytics-app
+	url = git@github.com:OrderMyGear/analytics-app
+[submodule "store-manager"]
+	path = store-manager
+	url = git@github.com:OrderMyGear/store-manager
+[submodule "integrations-app"]
+	path = integrations-app
+	url = git@github.com:OrderMyGear/integrations-app
+[submodule "login-app"]
+	path = login-app
+	url = git@github.com:OrderMyGear/login-app
+[submodule "product-browser"]
+	path = product-browser
+	url = git@github.com:OrderMyGear/product-browser
+[submodule "product-manager"]
+	path = product-manager
+	url = git@github.com:OrderMyGear/product-manager
+[submodule "orders-app"]
+	path = orders-app
+	url = git@github.com:OrderMyGear/orders-app
+[submodule "tdo-nav-service"]
+	path = tdo-nav-service
+	url = git@github.com:OrderMyGear/tdo-nav-service
+[submodule "integration-service"]
+	path = integration-service
+	url = git@github.com:OrderMyGear/integration-service
+[submodule "assetly"]
+	path = assetly
+	url = git@github.com:OrderMyGear/assetly
+[submodule "order-export-service"]
+	path = order-export-service
+	url = git@github.com:OrderMyGear/order-export-service
+[submodule "reporting"]
+	path = reporting
+	url = git@github.com:OrderMyGear/reporting
+[submodule "ui-framework"]
+	path = ui-framework
+	url = git@github.com:OrderMyGear/ui-framework
+[submodule "docker-images"]
+	path = docker-images
+	url = git@github.com:OrderMyGear/docker-images
+[submodule "mailer"]
+	path = mailer
+	url = git@github.com:OrderMyGear/mailer
+[submodule "store-request"]
+	path = store-request
+	url = git@github.com:OrderMyGear/store-request
+[submodule "zengear"]
+	path = zengear
+	url = git@github.com:OrderMyGear/zengear
+[submodule "work-order-generator"]
+	path = work-order-generator
+	url = git@github.com:OrderMyGear/work-order-generator
+[submodule "stripe-webhooks-listener"]
+	path = stripe-webhooks-listener
+	url = git@github.com:OrderMyGear/stripe-webhooks-listener
+[submodule "slack-webhook"]
+	path = slack-webhook
+	url = git@github.com:OrderMyGear/slack-webhook
+[submodule "shipping-service"]
+	path = shipping-service
+	url = git@github.com:OrderMyGear/shipping-service
+[submodule "share-service"]
+	path = share-service
+	url = git@github.com:OrderMyGear/share-service
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:OrderMyGear/product-service
+[submodule "pdf-service"]
+	path = pdf-service
+	url = git@github.com:OrderMyGear/pdf-service
+[submodule "organization-service"]
+	path = organization-service
+	url = git@github.com:OrderMyGear/organization-service
+[submodule "nsq-publisher"]
+	path = nsq-publisher
+	url = git@github.com:OrderMyGear/nsq-publisher
+[submodule "marketing-notifier"]
+	path = marketing-notifier
+	url = git@github.com:OrderMyGear/marketing-notifier
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:OrderMyGear/inventory-service
+[submodule "external-search-api"]
+	path = external-search-api
+	url = git@github.com:OrderMyGear/external-search-api
+[submodule "catalog-service"]
+	path = catalog-service
+	url = git@github.com:OrderMyGear/catalog-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:OrderMyGear/api-gateway
+[submodule "analytics-service"]
+	path = analytics-service
+	url = git@github.com:OrderMyGear/analytics-service
+[submodule "go-service-template"]
+	path = go-service-template
+	url = git@github.com:OrderMyGear/go-service-template
+[submodule "salesforce-api"]
+	path = salesforce-api
+	url = git@github.com:OrderMyGear/salesforce-api
+[submodule "pusher"]
+	path = pusher
+	url = git@github.com:OrderMyGear/pusher
+[submodule "order-processor"]
+	path = order-processor
+	url = git@github.com:OrderMyGear/order-processor
+[submodule "metrics"]
+	path = metrics
+	url = git@github.com:OrderMyGear/metrics
+[submodule "tax-service"]
+	path = tax-service
+	url = git@github.com:OrderMyGear/tax-service
+[submodule "sanmar-requester"]
+	path = sanmar-requester
+	url = git@github.com:OrderMyGear/sanmar-requester
+[submodule "product-loader"]
+	path = product-loader
+	url = git@github.com:OrderMyGear/product-loader
+[submodule "common-js"]
+	path = common-js
+	url = git@github.com:OrderMyGear/common-js
+[submodule "common-ui"]
+	path = common-ui
+	url = git@github.com:OrderMyGear/common-ui
+[submodule "payment-dashboard-app"]
+	path = payment-dashboard-app
+	url = git@github.com:OrderMyGear/payment-dashboard-app
+[submodule "airflow-dags"]
+	path = airflow-dags
+	url = git@github.com:OrderMyGear/airflow-dags

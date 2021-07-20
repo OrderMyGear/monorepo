@@ -6,5 +6,5 @@ REPOS		:= $(shell gh repo list $(GHORG) --no-archived -L 200 | awk '/\// { print
 all: $(REPOS)
 
 $(REPOS):
-	hub submodule add --depth 1 $@
+	git submodule add --depth 1 git@github.com:$@
 
