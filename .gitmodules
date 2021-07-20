@@ -214,3 +214,234 @@
 [submodule "airflow-dags"]
 	path = airflow-dags
 	url = git@github.com:OrderMyGear/airflow-dags
+[submodule "qata-scripts"]
+	path = qata-scripts
+	url = git@github.com:OrderMyGear/qata-scripts
+[submodule "homebrew-tap"]
+	path = homebrew-tap
+	url = git@github.com:OrderMyGear/homebrew-tap
+[submodule "omgctl"]
+	path = omgctl
+	url = git@github.com:OrderMyGear/omgctl
+[submodule "common-go"]
+	path = common-go
+	url = git@github.com:OrderMyGear/common-go
+[submodule "singer-el"]
+	path = singer-el
+	url = git@github.com:OrderMyGear/singer-el
+[submodule "suzerain"]
+	path = suzerain
+	url = git@github.com:OrderMyGear/suzerain
+[submodule "group-portal"]
+	path = group-portal
+	url = git@github.com:OrderMyGear/group-portal
+[submodule "elasticsearch-service"]
+	path = elasticsearch-service
+	url = git@github.com:OrderMyGear/elasticsearch-service
+[submodule "catalog-store"]
+	path = catalog-store
+	url = git@github.com:OrderMyGear/catalog-store
+[submodule "theme-service"]
+	path = theme-service
+	url = git@github.com:OrderMyGear/theme-service
+[submodule "store-service"]
+	path = store-service
+	url = git@github.com:OrderMyGear/store-service
+[submodule "product-loader-ui"]
+	path = product-loader-ui
+	url = git@github.com:OrderMyGear/product-loader-ui
+[submodule "order-tracker"]
+	path = order-tracker
+	url = git@github.com:OrderMyGear/order-tracker
+[submodule "quickbooks-go"]
+	path = quickbooks-go
+	url = git@github.com:OrderMyGear/quickbooks-go
+[submodule "data-seeding"]
+	path = data-seeding
+	url = git@github.com:OrderMyGear/data-seeding
+[submodule "mailer-webhook"]
+	path = mailer-webhook
+	url = git@github.com:OrderMyGear/mailer-webhook
+[submodule "headless-ui-test"]
+	path = headless-ui-test
+	url = git@github.com:OrderMyGear/headless-ui-test
+[submodule "ui-scripts"]
+	path = ui-scripts
+	url = git@github.com:OrderMyGear/ui-scripts
+[submodule "gulp-tasks"]
+	path = gulp-tasks
+	url = git@github.com:OrderMyGear/gulp-tasks
+[submodule "email-templates"]
+	path = email-templates
+	url = git@github.com:OrderMyGear/email-templates
+[submodule "optimal-store-ml"]
+	path = optimal-store-ml
+	url = git@github.com:OrderMyGear/optimal-store-ml
+[submodule "user-app"]
+	path = user-app
+	url = git@github.com:OrderMyGear/user-app
+[submodule "dd-trace-php"]
+	path = dd-trace-php
+	url = git@github.com:OrderMyGear/dd-trace-php
+[submodule "storefront-nextjs-poc"]
+	path = storefront-nextjs-poc
+	url = git@github.com:OrderMyGear/storefront-nextjs-poc
+[submodule "omg-mobile"]
+	path = omg-mobile
+	url = git@github.com:OrderMyGear/omg-mobile
+[submodule "locust-kube"]
+	path = locust-kube
+	url = git@github.com:OrderMyGear/locust-kube
+[submodule "node-omg-session"]
+	path = node-omg-session
+	url = git@github.com:OrderMyGear/node-omg-session
+[submodule "gearflow"]
+	path = gearflow
+	url = git@github.com:OrderMyGear/gearflow
+[submodule "scrapemygear"]
+	path = scrapemygear
+	url = git@github.com:OrderMyGear/scrapemygear
+[submodule "product-loader-config"]
+	path = product-loader-config
+	url = git@github.com:OrderMyGear/product-loader-config
+[submodule "organization"]
+	path = organization
+	url = git@github.com:OrderMyGear/organization
+[submodule "cloud-dataflow"]
+	path = cloud-dataflow
+	url = git@github.com:OrderMyGear/cloud-dataflow
+[submodule "maintenance-pages"]
+	path = maintenance-pages
+	url = git@github.com:OrderMyGear/maintenance-pages
+[submodule "opsgenie-integration"]
+	path = opsgenie-integration
+	url = git@github.com:OrderMyGear/opsgenie-integration
+[submodule "looker-actions"]
+	path = looker-actions
+	url = git@github.com:OrderMyGear/looker-actions
+[submodule "jupyter_data_analysis"]
+	path = jupyter_data_analysis
+	url = git@github.com:OrderMyGear/jupyter_data_analysis
+[submodule "bimg"]
+	path = bimg
+	url = git@github.com:OrderMyGear/bimg
+[submodule "google-cloud-go"]
+	path = google-cloud-go
+	url = git@github.com:OrderMyGear/google-cloud-go
+[submodule "Propel"]
+	path = Propel
+	url = git@github.com:OrderMyGear/Propel
+[submodule "assetly-shot"]
+	path = assetly-shot
+	url = git@github.com:OrderMyGear/assetly-shot
+[submodule "tap-clubhouse"]
+	path = tap-clubhouse
+	url = git@github.com:OrderMyGear/tap-clubhouse
+[submodule "node-client"]
+	path = node-client
+	url = git@github.com:OrderMyGear/node-client
+[submodule "libvips"]
+	path = libvips
+	url = git@github.com:OrderMyGear/libvips
+[submodule "golangci-lint"]
+	path = golangci-lint
+	url = git@github.com:OrderMyGear/golangci-lint
+[submodule "target-bigquery"]
+	path = target-bigquery
+	url = git@github.com:OrderMyGear/target-bigquery
+[submodule "singer-python"]
+	path = singer-python
+	url = git@github.com:OrderMyGear/singer-python
+[submodule "target-stitch"]
+	path = target-stitch
+	url = git@github.com:OrderMyGear/target-stitch
+[submodule "common-ts"]
+	path = common-ts
+	url = git@github.com:OrderMyGear/common-ts
+[submodule "node-jsonapi-client"]
+	path = node-jsonapi-client
+	url = git@github.com:OrderMyGear/node-jsonapi-client
+[submodule "GenSON"]
+	path = GenSON
+	url = git@github.com:OrderMyGear/GenSON
+[submodule "request-generator"]
+	path = request-generator
+	url = git@github.com:OrderMyGear/request-generator
+[submodule "go-shippo"]
+	path = go-shippo
+	url = git@github.com:OrderMyGear/go-shippo
+[submodule "swagstation-ios"]
+	path = swagstation-ios
+	url = git@github.com:OrderMyGear/swagstation-ios
+[submodule "ordermygear.github.io"]
+	path = ordermygear.github.io
+	url = git@github.com:OrderMyGear/ordermygear.github.io
+[submodule "datablocks-exchangerate"]
+	path = datablocks-exchangerate
+	url = git@github.com:OrderMyGear/datablocks-exchangerate
+[submodule "gochimp3"]
+	path = gochimp3
+	url = git@github.com:OrderMyGear/gochimp3
+[submodule "job-dsl-gradle-example"]
+	path = job-dsl-gradle-example
+	url = git@github.com:OrderMyGear/job-dsl-gradle-example
+[submodule "cluster"]
+	path = cluster
+	url = git@github.com:OrderMyGear/cluster
+[submodule "charts"]
+	path = charts
+	url = git@github.com:OrderMyGear/charts
+[submodule "oauth2_proxy"]
+	path = oauth2_proxy
+	url = git@github.com:OrderMyGear/oauth2_proxy
+[submodule "integrations-core"]
+	path = integrations-core
+	url = git@github.com:OrderMyGear/integrations-core
+[submodule "datadog-checks"]
+	path = datadog-checks
+	url = git@github.com:OrderMyGear/datadog-checks
+[submodule "datadog-tracer-js"]
+	path = datadog-tracer-js
+	url = git@github.com:OrderMyGear/datadog-tracer-js
+[submodule "searchkit"]
+	path = searchkit
+	url = git@github.com:OrderMyGear/searchkit
+[submodule "node-looker-api"]
+	path = node-looker-api
+	url = git@github.com:OrderMyGear/node-looker-api
+[submodule "fabric.js"]
+	path = fabric.js
+	url = git@github.com:OrderMyGear/fabric.js
+[submodule "osx-config-check"]
+	path = osx-config-check
+	url = git@github.com:OrderMyGear/osx-config-check
+[submodule "rd3"]
+	path = rd3
+	url = git@github.com:OrderMyGear/rd3
+[submodule "react-simple-colorpicker"]
+	path = react-simple-colorpicker
+	url = git@github.com:OrderMyGear/react-simple-colorpicker
+[submodule "react-contenteditable"]
+	path = react-contenteditable
+	url = git@github.com:OrderMyGear/react-contenteditable
+[submodule "nodemon"]
+	path = nodemon
+	url = git@github.com:OrderMyGear/nodemon
+[submodule "js-xlsx"]
+	path = js-xlsx
+	url = git@github.com:OrderMyGear/js-xlsx
+[submodule "zendesk"]
+	path = zendesk
+	url = git@github.com:OrderMyGear/zendesk
+[submodule "react-select"]
+	path = react-select
+	url = git@github.com:OrderMyGear/react-select
+[submodule "nestedSortable"]
+	path = nestedSortable
+	url = git@github.com:OrderMyGear/nestedSortable
+[submodule "taxjar-go"]
+	path = taxjar-go
+	url = git@github.com:OrderMyGear/taxjar-go
+[submodule "symfony1"]
+	path = symfony1
+	url = git@github.com:OrderMyGear/symfony1
