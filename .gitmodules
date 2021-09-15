@@ -445,3 +445,6 @@
 [submodule "symfony1"]
 	path = symfony1
 	url = git@github.com:OrderMyGear/symfony1
+[submodule "corporate-group-management"]
+	path = corporate-group-management
+	url = https://github.com/OrderMyGear/corporate-group-management.git
